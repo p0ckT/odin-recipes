@@ -1,0 +1,19 @@
+
+
+.header{
+    font-size: 48px;
+    color: blueviolet;
+    text-align: center;
+}
+
+.titles{
+    font-size: 38px;
+    color: burlywood;
+    text-align: center;
+}
+
+.img{
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
